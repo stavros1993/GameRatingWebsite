@@ -1,4 +1,4 @@
-# GameRatingWebsite
+- GameRatingWebsite
 
 Dynamic Website whose main purpose is for the users to rate or add popular videogames.
 
